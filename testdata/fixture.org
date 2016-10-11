@@ -1,0 +1,13 @@
+* TODO [#B] one [2/2]                                                :onetag:
+SCHEDULED: <2016-03-03 Thu> DEADLINE: <2016-03-04 Fri>
+** DONE one-one
+CLOSED: [2016-01-01 Fri 01:01] SCHEDULED: <2016-01-01 Fri>
+** DONE one-two
+CLOSED: [2016-02-02 Tue 02:02]
+
+* TODO [#A] another-one                                              :onetag:
+SCHEDULED: <2016-04-04 Tue>
+** TODO another-one-one
+*** DONE another-one-one-one
+CLOSED: [2016-04-04 Mon 04:04]
+** TODO another-one-two

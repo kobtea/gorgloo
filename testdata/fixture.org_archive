@@ -1,0 +1,62 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file /path/to/github.com/kobtea/gorgloo/testdata/fixture.org
+
+
+* DONE [#C] archive-one                                              :onetag:
+CLOSED: [2015-01-01 Thu 13:00]
+:PROPERTIES:
+:ARCHIVE_TIME: 2016-02-01 Mon 09:49
+:ARCHIVE_FILE: /path/to/github.com/kobtea/gorgloo/testdata/fixture.org
+:ARCHIVE_CATEGORY: fixture
+:ARCHIVE_TODO: DONE
+:END:
+** DONE archive-one-one
+CLOSED: [2016-01-01 Thu 10:00]
+** DONE archive-one-two
+CLOSED: [2016-01-01 Thu 09:00]
+
+
+* DONE archive-two-one-one
+CLOSED: [2015-02-02 Tue 09:50]
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-02-02 Tue 09:50
+:ARCHIVE_FILE: /path/to/github.com/kobtea/gorgloo/testdata/fixture.org
+:ARCHIVE_OLPATH: archive-two/archive-two-one
+:ARCHIVE_CATEGORY: fixture
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE archive-two-one
+CLOSED: [2015-03-03 Thu 09:49]
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-03-04 Fri 09:51
+:ARCHIVE_FILE: /path/to/github.com/kobtea/gorgloo/testdata/fixture.org
+:ARCHIVE_OLPATH: archive-two
+:ARCHIVE_CATEGORY: fixture
+:ARCHIVE_TODO: DONE
+:END:
+** DONE archive-two-one-two
+CLOSED: [2015-03-02 Wed 09:50]
+
+* DONE archive-two-two
+CLOSED: [2015-03-04 Fri 09:49]
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-03-05 Sat 09:51
+:ARCHIVE_FILE: /path/to/github.com/kobtea/gorgloo/testdata/fixture.org
+:ARCHIVE_OLPATH: archive-two
+:ARCHIVE_CATEGORY: fixture
+:ARCHIVE_TODO: DONE
+:END:
+** DONE archive-two-two-one
+CLOSED: [2015-03-03 Thu 09:50]
+
+* DONE archive-two
+CLOSED: [2015-04-04 Mon 09:49]
+:PROPERTIES:
+:ARCHIVE_TIME: 2015-04-01 Fri 09:51
+:ARCHIVE_FILE: /path/to/github.com/kobtea/gorgloo/testdata/fixture.org
+:ARCHIVE_CATEGORY: fixture
+:ARCHIVE_TODO: DONE
+:END:
